@@ -3,7 +3,7 @@
 ![stickers](./stickers.jpg)
 
 ### Saison 2
-![stickers saison 2](https://raw.githubusercontent.com/datactivist/stickers/master/DATA%2BSTICKERS_2.png-
+![stickers saison 2](https://raw.githubusercontent.com/datactivist/stickers/master/DATA%2BSTICKERS_2.png)
 
 Nous fournissons les [fichiers sources](https://github.com/datactivist/stickers/tree/master/source) de nos stickers sous licence CC-BY-SA/
 
